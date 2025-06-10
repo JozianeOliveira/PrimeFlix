@@ -6,13 +6,13 @@ Aplicação web desenvolvida com React que permite visualizar filmes populares, 
 
 ## 🔗 Deploy
 
-➡️ Acesse o [Prime Flix](#) <!-- Substitua '#' pela URL do seu deploy, se houver -->
-
+➡️ Acesse o [Prime Flix](https://prime-flix-483v-bmck0jxkp-joziane-oliveiras-projects.vercel.app/) 
 ---
 
 ## 📸 Preview
 
-<!-- Adicione aqui uma imagem ou gif do projeto -->
+![image](https://github.com/user-attachments/assets/4d2402a5-5b69-4ca5-86b1-6577688a51a2)
+
 
 ---
 
