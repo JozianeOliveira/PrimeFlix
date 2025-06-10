@@ -12,6 +12,9 @@ Aplicação web desenvolvida com React que permite visualizar filmes populares, 
 ## 📸 Preview
 
 ![image](https://github.com/user-attachments/assets/4d2402a5-5b69-4ca5-86b1-6577688a51a2)
+---
+![image](https://github.com/user-attachments/assets/18c104d4-697c-47dd-afd6-338caaf22056)
+
 
 
 ---
